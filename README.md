@@ -1,15 +1,15 @@
-My Personal Portfolio Website
+MY PERSONAL PORTFOLIO WEBSITE
 
 
 
-Description
+DESCRIPTION
 
 A responsive portfolio website showcasing my skills, projects, and achievements as part of the ALX SE Webstack Portfolio Project.
 This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
 
 
 
-Technologies Used
+TECHNOLOGIES USED
 
 HTML: Markup language used for structuring the website.
 
@@ -19,7 +19,7 @@ JavaScript: Programming language used for adding interactivity and dynamic featu
 
 
 
-Features
+FEATURES
 
 Home: Introduces myself and provides a brief overview of my skills and interests.
 
@@ -33,7 +33,7 @@ Contact: Offers various ways to get in touch with me, such as through email, soc
 
 
 
-Contact
+CONTACT
 
 If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
 
