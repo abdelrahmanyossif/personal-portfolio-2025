@@ -3,7 +3,8 @@
  * Most modern mobile touch slider and framework with hardware accelerated transitions
  * https://swiperjs.com
  *
- *
+ * Copyright 2014-2021 Vladimir Kharlampidi
+ * 
  */
 
 !(function (e, t) {

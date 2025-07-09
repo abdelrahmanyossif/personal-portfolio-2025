@@ -44,8 +44,6 @@ skillsHeader.forEach((el) => {
 });
 
 
-
-
 /*======================= Portfolio Swiper ===================*/
 var swiper = new Swiper(".portfolio__container", {
   cssMode: true,
