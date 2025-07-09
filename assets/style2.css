@@ -27,16 +27,17 @@
   --scroll-thumb-color: hsl(0, 0%, 80%);
 
   /*========= Font and typography ===========*/
-  --body-font: "Poppins", sans-serif;
+  --body-font: "Inter", sans-serif; /* خط للنصوص العادية */
+  --heading-font: "Montserrat", sans-serif; /* خط للعناوين */
   
-  /* أحجام الخطوط المعدلة */
-  --big-font-size: 2.5rem;      /* 40px - للعناوين الكبيرة */
-  --h1-font-size: 2rem;         /* 32px - العنوان الرئيسي */
-  --h2-font-size: 1.5rem;       /* 24px - العناوين الفرعية */
-  --h3-font-size: 1.25rem;      /* 20px - العناوين الصغيرة */
-  --normal-font-size: 1rem;     /* 16px - النص العادي */
-  --small-font-size: 0.875rem;  /* 14px - النصوص الصغيرة */
-  --smaller-font-size: 0.75rem; /* 12px - النصوص الأصغر */
+  /* أحجام الخطوط */
+  --big-font-size: 3rem;
+  --h1-font-size: 2.25rem;
+  --h2-font-size: 1.75rem;
+  --h3-font-size: 1.5rem;
+  --normal-font-size: 1.1rem;
+  --small-font-size: 0.9rem;
+  --smaller-font-size: 0.8rem;
 
   /*=========== Font weight ==========*/
 
