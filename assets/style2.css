@@ -28,14 +28,15 @@
 
   /*========= Font and typography ===========*/
   --body-font: "Poppins", sans-serif;
-
-  --big-font-size: 2rem;
-  --h1-font-size: 1.5rem;
-  --h2-font-size: 1.25rem;
-  --h3-font-size: 1.125rem;
-  --normal-font-size: 0.938rem;
-  --small-font-size: 0.813rem;
-  --smaller-font-size: 0.75rem;
+  
+  /* أحجام الخطوط المعدلة */
+  --big-font-size: 2.5rem;      /* 40px - للعناوين الكبيرة */
+  --h1-font-size: 2rem;         /* 32px - العنوان الرئيسي */
+  --h2-font-size: 1.5rem;       /* 24px - العناوين الفرعية */
+  --h3-font-size: 1.25rem;      /* 20px - العناوين الصغيرة */
+  --normal-font-size: 1rem;     /* 16px - النص العادي */
+  --small-font-size: 0.875rem;  /* 14px - النصوص الصغيرة */
+  --smaller-font-size: 0.75rem; /* 12px - النصوص الأصغر */
 
   /*=========== Font weight ==========*/
 
