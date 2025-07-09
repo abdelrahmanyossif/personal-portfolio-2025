@@ -27,17 +27,16 @@
   --scroll-thumb-color: hsl(0, 0%, 80%);
 
   /*========= Font and typography ===========*/
-  --body-font: "Inter", sans-serif; /* خط للنصوص العادية */
-  --heading-font: "Montserrat", sans-serif; /* خط للعناوين */
+  --body-font: "Open Sans", sans-serif;
+  --heading-font: "Playfair Display", serif;
   
-  /* أحجام الخطوط */
-  --big-font-size: 3rem;
-  --h1-font-size: 2.25rem;
-  --h2-font-size: 1.75rem;
-  --h3-font-size: 1.5rem;
-  --normal-font-size: 1.1rem;
-  --small-font-size: 0.9rem;
-  --smaller-font-size: 0.8rem;
+  --big-font-size: 2.8rem;
+  --h1-font-size: 2.2rem;
+  --h2-font-size: 1.8rem;
+  --h3-font-size: 1.4rem;
+  --normal-font-size: 1.05rem;
+  --small-font-size: 0.85rem;
+  --smaller-font-size: 0.75rem;
 
   /*=========== Font weight ==========*/
 
