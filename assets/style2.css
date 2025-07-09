@@ -7,24 +7,22 @@
 
   /*======= Colors =======*/
   /* Change Favorite color */
-  --hue-color: 300;
+  --hue-color: 210;
 
   /*========= HSL Color mode =========*/
-  --first-color: hsl(var(--hue-color), 69%, 61%);
-  --first-color-second: hsl(var(--hue-color), 69%, 65%);
-  --first-color-alt: hsl(var(--hue-color), 57%, 53%);
-  --first-color-lighter: hsl(var(--hue-color), 92%, 85%);
-  
-  --title-color: hsl(300, 8%, 15%);
-  --text-color: hsl(300, 8%, 45%);
-  --text-color-light: hsl(300, 8%, 65%);
-  
-  --body-color: hsl(300, 60%, 99%);
-  --container-color: #fff;
-  --input-color: hsl(300, 70%, 96%);
-  
-  --scroll-bar-color: hsl(300, 12%, 90%);
-  --scroll-thumb-color: hsl(300, 12%, 80%);
+      --first-color: hsl(var(--hue-color), 70%, 50%); /* لون أساسي للأزرار والعناصر البارزة */
+    --first-color-second: hsl(var(--hue-color), 70%, 40%); /* لون ثانوي أغمق للخلفيات */
+    --first-color-alt: hsl(var(--hue-color), 60%, 45%); /* لون بديل للـ Hover */
+    --first-color-lighter: hsl(var(--hue-color), 80%, 85%); /* لون فاتح للخلفيات أو النصوص الثانوية */
+    --title-color: hsl(var(--hue-color), 10%, 20%); /* لون العناوين، داكن للتباين */
+    --text-color: hsl(var(--hue-color), 10%, 40%); /* لون النصوص العادية */
+    --text-color-light: hsl(var(--hue-color), 10%, 60%); /* لون النصوص الثانوية */
+    --input-color: hsl(var(--hue-color), 60%, 95%); /* لون خلفية الـ Inputs */
+    --body-color: hsl(var(--hue-color), 30%, 98%); /* خلفية الـ Body (فاتحة) */
+    --container-color: #fff; /* خلفية الحاويات (بيضاء نقية) */
+    --scroll-bar-color: hsl(var(--hue-color), 20%, 90%); /* لون شريط التمرير */
+    --scroll-thumb-color: hsl(var(--hue-color), 20%, 70%); /* لون Thumb التمرير */
+    --accent-color: hsl(25, 80%, 60%); /* برتقالي للـ Call-to-Action (زر View My Work مثلاً) */
 
   /*========= Font and typography ===========*/
   --body-font: "Poppins", sans-serif;
