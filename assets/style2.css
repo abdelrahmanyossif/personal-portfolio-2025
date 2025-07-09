@@ -7,24 +7,27 @@
 
   /*======= Colors =======*/
   /* Change Favorite color */
-  --hue-color: 160;
+  --hue-color: 300;
 
   /*========= HSL Color mode =========*/
-  --first-color: hsl(var(--hue-color), 64%, 44%);
-  --first-color-second: hsl(var(--hue-color), 64%, 50%);
-  --first-color-alt: hsl(var(--hue-color), 64%, 38%);
-  --first-color-lighter: hsl(var(--hue-color), 64%, 75%);
+   --first-color: hsl(var(--hue-color), 70%, 55%);
+  --first-color-second: hsl(var(--hue-color), 70%, 60%);
+  --first-color-alt: hsl(var(--hue-color), 60%, 48%);
+  --first-color-lighter: hsl(var(--hue-color), 92%, 85%);
   
-  --title-color: hsl(0, 0%, 20%);
-  --text-color: hsl(0, 0%, 35%);
-  --text-color-light: hsl(0, 0%, 60%);
+  /* ألوان النصوص والخلفيات */
+  --title-color: hsl(210, 24%, 16%); /* أزرق داكن للعناوين */
+  --text-color: hsl(210, 12%, 45%); /* رمادي مزرق للنص العادي */
+  --text-color-light: hsl(210, 12%, 65%); /* رمادي فاتح للنصوص الثانوية */
   
-  --body-color: hsl(0, 0%, 98%);
-  --container-color: #fff;
-  --input-color: hsl(0, 0%, 96%);
+  /* ألوان الخلفيات */
+  --body-color: hsl(210, 20%, 98%); /* لون الصفحة الرئيسي (فاتح جداً) */
+  --container-color: #fff; /* أبيض للحاويات */
+  --input-color: hsl(210, 29%, 95%); /* لون حقول الإدخال */
   
-  --scroll-bar-color: hsl(0, 0%, 90%);
-  --scroll-thumb-color: hsl(0, 0%, 80%);
+  /* ألوان شريط التمرير */
+  --scroll-bar-color: hsl(210, 12%, 90%);
+  --scroll-thumb-color: hsl(210, 12%, 75%);
 
   /*========= Font and typography ===========*/
   --body-font: "Poppins", sans-serif;
